@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    background-color: #1f1f1f;
+    color: #ffffff;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-top: 30px;
+}
+
+.case {
+    display: inline-block;
+    margin: 10px;
+}
+
+.case img {
+    width: 150px;
+    height: 150px;
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+
+.case p {
+    margin-top: 5px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.algorithm {
+    margin-top: 10px;
+    padding: 5px;
+    background-color: #333333;
+    border: 1px solid #ccc;
+    font-family: Consolas, monospace;
+    font-size: 14px;
+    color: #ffffff;
+}
